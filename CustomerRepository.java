@@ -8,5 +8,6 @@ import com.example.BankApp3.entity.Customer;
 @Repository
 public interface CustomerRepository extends JpaRepository<Customer,Long>
 {
+// practicing the git commands
 
 }
